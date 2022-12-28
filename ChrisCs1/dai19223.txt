@@ -1,0 +1,8 @@
+Ηράκλειο
+--------
+Christodoulou Christos,  license1, 606.7415730337078
+Total autonomy: 956.7415730337078
+--------
+Another Random,  license3, 350.0
+Total autonomy: 956.7415730337078
+--------
